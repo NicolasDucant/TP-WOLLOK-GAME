@@ -1,0 +1,4 @@
+{"level":"info","message":"⌛ Building environment","timeElapsed":111,"timestamp":"2026-09-25T18:10:53.175Z"}
+{"level":"info","message":"⌛ Validating hola.wlk","timeElapsed":130,"timestamp":"2026-09-25T18:10:53.405Z"}
+{"level":"info","message":"⌛ Validating log/circuitos.wlk","timeElapsed":115,"timestamp":"2026-09-25T18:12:14.420Z"}
+{"level":"info","message":"Removing diagnostics from /c:/NICO/Segundo Año UTN/Paradigmas de Programacion/TP-WOLLOK-GAME/src/log/circuitos.wlk","timestamp":"2026-09-25T18:13:11.861Z"}
