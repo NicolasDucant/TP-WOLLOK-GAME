@@ -1,0 +1,12 @@
+import wollok.game.*
+import pantallas.*
+
+program FormulaManager {
+  game.title("Formula Manager")
+  game.width(10)
+  game.height(10)
+
+  pantallaInicio.iniciar()
+
+  game.start()
+}
